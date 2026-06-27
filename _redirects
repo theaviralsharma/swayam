@@ -1,1 +1,6 @@
-/nou25_mg24/certificate    /nou25_mg24/certificate/index.html    200
+# Certificate page
+/nou25_mg24/certificate   /nou25_mg24/certificate/index.html   200
+/nou25_mg24/certificate/  /nou25_mg24/certificate/index.html   200
+
+# Catch everything else
+/* https://swayam.gov.in 301
